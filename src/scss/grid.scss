@@ -1,9 +1,29 @@
 #most-visited-container {
-    height: 500px;
+    height: 600px;
     border: 2px solid black;
+    font-size: 1.2vmax;
+}
+
+.my-city-container-ranked {
+    background-color: gray;
+    height:  13%;
 }
 
 .my-city-container {
+    height:  47%;
+    border: 2px solid black;
+}
+
+.my-city-photo {
+    height:  40%;
     background-color: gray;
-    height:  13%;
+}
+
+.my-city-description-text {
+    font-size: 1.2vmax;
+}
+
+.my-city-info-button {
+    height: 20%;
+    border-radius: 5vw;
 }
