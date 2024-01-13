@@ -9,11 +9,13 @@ import '../scss/footer.scss'
 import { loadHeader } from './header'
 import { loadCities } from './cities-section'
 import { loadRestaurants } from './restaurants'
+import { loadFooter } from './footer'
 
 function app() {
     loadHeader()
     loadCities()
     loadRestaurants()
+    loadFooter()
 }
 
 app()
