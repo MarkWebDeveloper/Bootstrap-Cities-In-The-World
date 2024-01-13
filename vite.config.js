@@ -1,6 +1,7 @@
 const path = require('path')
 
 export default {
+  publicDir: "../public",
   root: path.resolve(__dirname, 'src'),
   resolve: {
     alias: {
