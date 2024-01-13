@@ -5,8 +5,54 @@
 }
 
 .my-city-container-ranked {
-    background-color: gray;
     height:  13%;
+
+    p {
+        color: white;
+    }
+}
+
+.hong-kong-photo {
+    background-image: url(../../public/images/photos/Hong-Kong.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bangkok-photo {
+    background-image: url(../../public/images/photos/Bangkok.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    p {
+        color: black;
+    }
+}
+
+.london-photo {
+    background-image: url(../../public/images/photos/London.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.singapore-photo {
+    background-image: url(../../public/images/photos/Singapore.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.macau-photo {
+    background-image: url(../../public/images/photos/Macau.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.paris-photo {
+    background-image: url(../../public/images/photos/Paris.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-position: 50% 100%;
 }
 
 .my-city-container {

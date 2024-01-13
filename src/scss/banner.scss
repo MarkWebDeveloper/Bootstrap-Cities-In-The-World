@@ -1,4 +1,11 @@
 #banner {
     height: 250px;
-    background-color: rgb(194, 194, 194);
+    background-image: url(./../../public/images/photos/city-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.my-banner-title {
+    color: white;
 }
