@@ -3,6 +3,7 @@ import '../scss/styles.scss'
 import '../scss/general-rules.scss'
 import '../scss/header.scss'
 import '../scss/banner.scss'
+import '../scss/grid.scss'
 import { loadHeader } from './header'
 
 function app() {
