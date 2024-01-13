@@ -1,6 +1,8 @@
 .my-restaurants-section {
     height: 250px;
-    background-color: gray;
+    background-image: url(../../public/images/photos/restaurant-background-2.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .my-restaurants-container {
@@ -14,6 +16,7 @@
 
 .my-restaurants-title {
     margin-top: 1vmax;
+    color: white;
 }
 
 .my-restaurant-image {
@@ -23,7 +26,28 @@
     border-radius: 50%;
 }
 
+.my-central {
+    background-image: url(./../../public/images/photos/1.Central-Lima.jpg);
+    background-size: contain;
+}
+
+.my-disfrutar {
+    background-image: url(./../../public/images/photos/2.Disfrutar-Barcelona.jpg);
+    background-size: contain;
+}
+
+.my-diverxo {
+    background-image: url(./../../public/images/photos/3.Diverxo-Madrid.jpg);
+    background-size: contain;
+}
+
+.my-asador-etxebarri {
+    background-image: url(./../../public/images/photos/4.Asador-Etxebarri-Atxondo.jpg);
+    background-size: contain;
+}
+
 .my-restaurant-description {
     width: 70%;
     font-size: 1.3vmax;
+    color: white;
 }
