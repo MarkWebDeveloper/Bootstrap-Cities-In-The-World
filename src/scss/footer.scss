@@ -15,9 +15,10 @@
 }
 
 .my-company-logo {
+    background-image: url(../../public/images/logos/Mountains-travel-logo.png);
     height: 50px;
     width: 50px;
-    background-color: gray;
+    background-size: contain;
 }
 
 // .my-copyright-text {
