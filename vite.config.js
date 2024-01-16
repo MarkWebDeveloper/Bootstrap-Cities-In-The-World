@@ -1,6 +1,7 @@
 const path = require('path')
 
 export default {
+  base: '/Bootstrap-Cities-In-The-World/',
   publicDir: "../public",
   root: path.resolve(__dirname, 'src'),
   resolve: {
